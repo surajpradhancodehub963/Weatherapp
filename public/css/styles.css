@@ -1,0 +1,48 @@
+body{
+    height: 100vh;
+    background: #06283D;
+}
+h1{
+    color: antiquewhite;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    font-family: 'Fredoka One', cursive;
+}
+.card{
+  margin: 0 auto 0 auto;
+}
+h3{
+    text-transform: uppercase;
+    color: #06283D;
+    letter-spacing: 1px;
+    font-size: 22px;
+    font-weight: 500;
+}
+.weather_img{
+    width: 60%;
+    display: block;
+    margin: 30px auto 20px auto;
+}
+.degree h1{
+    color: #06283D;
+    font-weight: bolder;
+    text-align: center;
+}
+.degree p{
+    color: #06283D;
+    font-size: 22px;
+    font-weight: 500;
+    text-align: center;
+}
+.weather_info{
+    color: #06283D;
+    font-size: 22px;
+    font-weight: 600;
+}
+form{
+    margin: 0 auto 0 auto;
+}
+form input,button{
+    width: 100%;
+}
